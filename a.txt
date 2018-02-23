@@ -1,2 +1,1 @@
-Git is version control system
-Git is free sofatware
+git ia version control system
